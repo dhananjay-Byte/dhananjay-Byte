@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">Passionate about continuously expanding my coding skills, curious by nature, and always eager to learn.</h3>
 
-- 🌱 I’m aspiring learning **to be a full stack developer**
+- 🌱 I’m aspiring **to be a full stack developer**
 
 - 👯 I’m looking to collaborate on **project based on frontend or user interface.**
 
