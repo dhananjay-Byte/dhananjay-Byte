@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am a freelancer and i used to be a technical content writer for an organization**
 
+[![An image of @dhananjaybyte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhananjaybyte)](https://holopin.io/@dhananjaybyte)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhananjay121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay121" height="30" width="40" /></a>
