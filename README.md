@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">Passionate about continuously expanding my coding skills, curious by nature, and always eager to learn.</h3>
 
-- 🌱 I’m aspiring **to be a full stack developer**
+- 🌱 I’m **a full stack developer**
 
-- 👯 I’m looking to collaborate on **project based on frontend or user interface.**
+- 👯 I’m looking to collaborate on **full stack projects**
 
-- 💬 Ask me about **react,redux,express.js and c++**
+- 💬 Ask me about **react,redux,express.js, node.js, socket.io, mongodb and c++**
 
 - 📫 How to reach me **dhananjay123789@gmail.com**
 
-- ⚡ Fun fact **I am a freelancer and i used to be a technical content writer for an organization**
 
 [![An image of @dhananjaybyte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhananjaybyte)](https://holopin.io/@dhananjaybyte)
 
